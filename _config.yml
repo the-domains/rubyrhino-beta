@@ -1,0 +1,28 @@
+name: rubyrhino-beta
+favicon: null
+layout_spectrum: 0.14766770671121776
+typography_spectrum: 0.3306972864083946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7117127797100693
+  lightness: 0.9943283835891634
+  saturation: 0.4759527302812785
+  rhythmicContrast: 0.3508585107047111
+purpose: []
